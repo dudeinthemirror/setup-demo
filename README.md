@@ -1,3 +1,4 @@
+```
 =====================================================================
  This script will install all the necessary artifacts for:
 
@@ -17,3 +18,4 @@ USAGE: setupDemo.sh --help (or -h)      --> display this help message
        setupDemo.sh --install (or -i)   --> install all demo artifacts
        setupDemo.sh --uninstall (or -u) --> remove all demo artifacts and restore  
 =======================================================================
+```
